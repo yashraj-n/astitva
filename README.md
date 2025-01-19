@@ -125,7 +125,7 @@ Astitva redefines creativity by merging artificial intelligence with storytellin
      ```
    - Run the Flask server:
      ```bash
-     python app.py
+     python main.py
      ```
 
 3. **Set Up Frontend:**
@@ -144,6 +144,8 @@ Astitva redefines creativity by merging artificial intelligence with storytellin
 
 4. **Configure Environment Variables:**
    - Set up API keys and endpoints for WorqHat APIs in a `.env` file.
+   - Ensure Clerk API key is added in the `.env.local` file for frontend usage.
+   - Rename `env.example` files to `.env` for backend and `.env.local` for frontend.
 
 ---
 
