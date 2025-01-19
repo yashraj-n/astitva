@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://changeme.com" target="_blank" title="Visit Us"><img width="196px" alt="logo" src="https://em-content.zobj.net/source/twitter/77/lower-left-paintbrush_1f58c.png"></a>
+<a href="https://astitva-frontend.yashrajn.com/" target="_blank" title="Visit Us"><img width="196px" alt="logo" src="https://em-content.zobj.net/source/twitter/77/lower-left-paintbrush_1f58c.png"></a>
 
 <a name="readme-top"></a>
 
@@ -17,7 +17,7 @@ Astitva is an AI-driven platform that transforms images into captivating stories
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 
-<a href="https://changeme.com" target="_blank" title="Visit Us">
+<a href="https://astitva-frontend.yashrajn.com/" target="_blank" title="Visit Us">
 Check out Astitva
 </a>
 
