@@ -24,9 +24,9 @@ export default function CreateStory() {
       url: "/ImgtoPoetry",
     },
     {
-      name: "Image to Motivational Quote",
+      name: "Image to Instagram Caption",
       icon: "📚📖",
-      description: "Generate inspiring quotes from images.",
+      description: "Generate Instagram captions from your images.",
       url: "/ImgtoMotivation",
     },
   ];
