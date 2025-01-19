@@ -168,7 +168,7 @@ Astitva redefines creativity by merging artificial intelligence with storytellin
 
 ## Screenshots
 
-![Workflow Example](./image.png)
+![Workflow Example](./assets/Screenshot_2025-01-19_at_10.40.19_PM_png.jpg)
 
 ---
 
@@ -177,8 +177,9 @@ Astitva redefines creativity by merging artificial intelligence with storytellin
 ## Credits
 <div align="left">
 
-- **Development Team:** Special thanks to the team behind Astitva for their creativity and dedication.
 - **WorqHat APIs:** Acknowledgment for providing robust AI capabilities.
+- **CSI @ MIT-WPU:** For organising an amazing hackathon.
+
 
 ---
 
