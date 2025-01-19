@@ -123,7 +123,7 @@ Astitva redefines creativity by merging artificial intelligence with storytellin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/astitva.git
+   git clone https://github.com/yashraj-n/astitva
    cd astitva
    ```
 
