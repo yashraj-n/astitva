@@ -62,7 +62,7 @@ export default function Page() {
     ];
     useEffect(() => {
         if (isLoaded) {
-            StoredManager.getAllSaved(user?.primaryEmailAddress?.emailAddress ?? "").then((data) => {
+            StoredManager.getAllSaved(user?.id ?? "").then((data) => {
                 console.log(data);
                 data.stories.forEach((story) => {
                     setData((prev) => [...prev, {

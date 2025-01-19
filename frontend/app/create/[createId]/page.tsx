@@ -355,7 +355,7 @@ export default function Page() {
                     imageStore.imageId,
                     selectedMood ?? [],
                     setting ?? [],
-                    user.user?.primaryEmailAddress?.emailAddress ?? ""
+                    user.user?.id ?? ""
                 ).then((response) => {
                     console.log("Poem", response);
                     poemStore.setPoem(response.data.poem);
