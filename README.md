@@ -1,12 +1,16 @@
 <div align="center">
 
-<a href="https://astitva-frontend.yashrajn.com/" target="_blank" title="Visit Us"><img width="196px" alt="logo" src="https://em-content.zobj.net/source/twitter/77/lower-left-paintbrush_1f58c.png"></a>
+<a href="https://astitva-frontend.yashrajn.com/" target="_blank" title="Visit Us"><img width="120px" alt="logo" src="https://em-content.zobj.net/source/twitter/77/lower-left-paintbrush_1f58c.png"></a>
+
+
 
 <a name="readme-top"></a>
 
 # Astitva
 
 Astitva is an AI-driven platform that transforms images into captivating stories, heartfelt poems, and creative captions. Built with Python Flask and Next.js/React, it leverages Worqhat APIs to demonstrate the boundless creativity of artificial intelligence. Astitva is designed to inspire and showcase AI's potential in storytelling, poetry, and social media engagement.
+
+> #### ⚠ Due to cloudflare timeout issues, the hosted url will not work. Please Self Host the project to use it.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -18,7 +22,7 @@ Astitva is an AI-driven platform that transforms images into captivating stories
 
 
 <a href="https://astitva-frontend.yashrajn.com/" target="_blank" title="Visit Us">
-Check out Astitva
+<del>Check out Astitva</del>
 </a>
 
 ---
@@ -97,6 +101,11 @@ Astitva redefines creativity by merging artificial intelligence with storytellin
 <div align="left">
 
    - **Next.js (React):** Provides a seamless and interactive user interface.
+   - **Tailwind CSS:** Facilitates responsive design and modern styling.
+   - **Chakra UI:** Offers a component library for consistent design elements.
+   - **Aceternity:** Provides a clean and aesthetic design theme.
+   - **Shadcn/ui:** Offers a custom UI library for enhanced user experience.
+   - **Clerk:** Provides authentication and user management capabilities.
 
 ---
 
@@ -168,7 +177,10 @@ Astitva redefines creativity by merging artificial intelligence with storytellin
 
 ## Screenshots
 
-![Workflow Example](./assets/Screenshot_2025-01-19_at_10.40.19_PM_png.jpg)
+<img src="./assets//Screenshot_2025-01-19_at_10.40.19_PM_png.jpg" width="100%">
+
+
+<img src="https://lambda.yashraj.eu.org/kgvuKba" alt="Workflow Example" width="100%">
 
 ---
 
